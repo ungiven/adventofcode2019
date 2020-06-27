@@ -1,0 +1,23 @@
+			# if a[0] < b[0]:
+				# dis[i][0] += 1
+			# elif a[0] > b[0]:
+				# dis[i][0] -= 1
+			
+			# if a[1] < b[1]:
+				# dis[i][1] += 1
+			# elif a[1] > b[1]:
+				# dis[i][1] -= 1
+
+			# if a[2] < b[2]:
+				# dis[i][2] += 1
+			# elif a[2] > b[2]:
+				# dis[i][2] -= 1
+				
+
+# r= [ [ 0 for a in range(len(A[0])) ] for b in range(len(A)) ]
+	
+	# for y in range(len(A)):
+		# for x in range(len(A[0])):
+			# r[y][x] = A[y][x] + B[y][x]
+	
+	# return r
