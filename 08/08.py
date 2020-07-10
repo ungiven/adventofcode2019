@@ -49,7 +49,7 @@ for i in layers[min_layer]:
 final_image = ""
 num_layers = len(layers)
 
-
+#
 for i,val in enumerate(layers[0]):
 	if val == '0' or val == '1':
 		final_image = final_image + val
